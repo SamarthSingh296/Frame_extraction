@@ -56,5 +56,5 @@ Example
 > ⚡ **Copy & paste this command to run the program**
 >
 > ```bash
-> ./extract_frames /home/samarth/Videos/downloaded/movie.mp4
+> ./extract_frames /home/username(huddybuddy)/Videos/downloaded/movie.mp4
 > ```
