@@ -1,2 +1,5 @@
 extract_frames
-*.o
+test_frames/
+*_frames/
+*.png
+
