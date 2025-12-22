@@ -33,9 +33,11 @@ G++ (C++17 compatible)
 FFmpeg
 
 Install FFmpeg (Ubuntu/Debian)
+''' bash
 sudo apt install ffmpeg
 
 Check versions
+''' bash
 g++ --version
 ffmpeg -version 
 How to Compile
@@ -45,7 +47,9 @@ Navigate to the project folder and compile using:
 g++ extract_frames.cpp -o extract_frames -std=c++17
 
 ▶️ How to Run
+''' bash
 ./extract_frames <path_to_video>
 
 Example
+''' bash
 ./extract_frames /home/haddybuddy/Videos/downloaded/movie.mp4
