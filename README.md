@@ -44,9 +44,9 @@ Check versions
 How to Compile
 
 Navigate to the project folder and compile using:
-
-g++ extract_frames.cpp -o extract_frames -std=c++17
-
+> ``` bash
+> g++ extract_frames.cpp -o extract_frames -std=c++17
+>> ```
 ▶️ How to Run
 > ```bash
 >./extract_frames <path_to_video>
