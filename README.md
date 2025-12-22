@@ -34,7 +34,7 @@ FFmpeg
 Install FFmpeg (Ubuntu/Debian)
 > ``` bash
 >sudo apt install ffmpeg
-> > ```
+>  ```
 
 Check versions
 > ```bash
@@ -50,7 +50,7 @@ g++ extract_frames.cpp -o extract_frames -std=c++17
 ▶️ How to Run
 > ```bash
 >./extract_frames <path_to_video>
-> > ```
+>  ```
 
 Example
 > ⚡ **Copy & paste this command to run the program**
