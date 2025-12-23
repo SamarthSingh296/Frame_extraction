@@ -37,9 +37,8 @@ This project demonstrates **real-world C++ usage** with filesystem handling and 
 <p align="center">
    <img width="720" height="720" alt="frame_0002" src="https://github.com/user-attachments/assets/4f0cabb7-1b3e-4556-98ed-599c0aa828f8" />
 
-  <img src="assets/frames/frame2.png" width="240"/>
-  <img src="assets/frames/frame2.png" width="240"/>
-  <img src="assets/frames/frame3.png" width="240"/>
+  <img width="720" height="720" alt="frame_0022" src="https://github.com/user-attachments/assets/7403a234-b7d7-4082-935b-2353a89c087b" />
+
 </p>
 
 <p align="center">
