@@ -57,7 +57,7 @@ This project demonstrates **real-world C++ usage** with filesystem handling and 
 ---
 
 ## 📂 Project Structure
-
+```text
 Frame_extraction/
 ├── extract_frames.cpp
 ├── README.md
@@ -68,7 +68,7 @@ Frame_extraction/
 ├── frame2.png
 └── frame3.png
 
-
+```
 ---
 
 ## ⚙️ Requirements
